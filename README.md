@@ -1,4 +1,4 @@
-# My Python Project
+# cool perfect 2p Tetris
 
 # Install
 ptyhon 3.1.3
